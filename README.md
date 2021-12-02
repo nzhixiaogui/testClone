@@ -1,2 +1,2 @@
 # testClone
-This is a project for practice gut clone.
+This is a project for practice git clone.
